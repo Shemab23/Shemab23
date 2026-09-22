@@ -1,6 +1,4 @@
-<img src="assets/shema-solution-logo.png" alt="Shema Solution" width="140" />
-
-# Hi, I'm Bruno SHEMA 👋
+# <img src="assets/shema-solution-logo.png" alt="Shema Solution" width="45" /> Hi, I'm Bruno SHEMA 👋 
 
 Software Engineer building practical software, and exploring AI, embedded systems, and intelligent applications.
 
