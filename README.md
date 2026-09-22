@@ -61,3 +61,11 @@
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
 </p>
+
+Databases
+
+<p align="left"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /> </p>
+
+Tools & Platforms
+
+<p align="left"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white" /> </p> <h3 align="left">GitHub Analytics:</h3> <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=shemab23&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="shemab23 stats" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shemab23&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="shemab23 top langs" height="165" /> </p> <p align="left"> <img src="https://streak-stats.demolab.com/?user=shemab23&theme=tokyonight&hide_border=true" alt="shemab23 streak" /> </p>
