@@ -4,7 +4,7 @@ Software Engineer building practical software, and exploring AI, embedded system
 
 I take on client software projects under **Shema Solution**, my personal practice, and I'm currently diving deeper into **AI, embedded systems, IoT, and edge intelligence**.
 
-📄 [View my CV](https://res.cloudinary.com/dmn1dhmxe/image/upload/v1790055885/CV_bxpfpc.pdf) · 💼 [My portfolio](https://myportifolio-jade-one.vercel.app/) · 📫 shemab71@gmail.com
+📄 [View my CV](https://res.cloudinary.com/dmn1dhmxe/image/upload/v1790055885/CV_bxpfpc.pdf) · 💼 [My portfolio](https://brunoshema.vercel.app/) · 📫 shemab71@gmail.com
 
 <p>
 <a href="https://linkedin.com/in/shema-bruno" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
